@@ -1,7 +1,7 @@
 # OpCore-Simplify-Typosquats-Detected
-Hello everyone,
-I have smoe bad news for you: there are 2 typosquatting repositories that are deceiving users into downloading kernel level malware inside their EFI partitions.
-Typosquatting repo No1:
+<p> Hello everyone, </p>
+<p>I have smoe bad news for you: there are 2 typosquatting repositories that are deceiving users into downloading kernel level malware inside their EFI partitions. </p>
+<p> Typosquatting repo No1: </p>
 The first typosquatted repo is called OpCore-Simplify2. Their trick is to deceive people into downloading kernel level malware into their EFIs by making the name of the repo too similar to the official repo - this is a trick black hats adore to exploit.
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-24 um 00 48 48" src="https://github.com/user-attachments/assets/6a13c76a-87b2-49f9-9765-be26b664d5b5" />
 This project exploits a vulnerability in older OpCore-Simplify versions to download kexts from whatever source the attacker wants to to fully compromise your systems. That vulnerability is now patched recently, but by the time it got patched attackers have already forked this project and abused the kext redirection vulnerability. Another red flag is that the attacker has written either generic commits or commits in Viatnamese. In most legitimate cases, if the owner of the repo targets international audience write commits in English, not Viatnamese, nor Chinese - this is obfuscation technique so it's much harder for non-Viatnamese speakers to understand what exactly is going on. Let's now go into the kext_data.py and see what's going on:
