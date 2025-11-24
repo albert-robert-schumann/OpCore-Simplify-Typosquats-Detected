@@ -1,6 +1,7 @@
 # OpCore-Simplify-Typosquats-Detected
 <p> Hello everyone, </p>
 <p>I have smoe bad news for you: there are 2 typosquatting repositories that are deceiving users into downloading kernel level malware inside your EFI partitions. </p>
+<p> The official repo is this: https://github.com/lzhoang2801/OpCore-Simplify </p>
 <p> Typosquatting repo No1: </p>
 The first typosquatted repo is called OpCore-Simplify2. Their trick is to deceive people into downloading kernel level malware into their EFIs by making the name of the repo too similar to the official repo - this is a trick black hats adore to exploit.
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-24 um 00 48 48" src="https://github.com/user-attachments/assets/6a13c76a-87b2-49f9-9765-be26b664d5b5" />
