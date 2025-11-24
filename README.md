@@ -1,6 +1,7 @@
 # OpCore-Simplify-Typosquats-Detected
 <p> Hello everyone, </p>
 <p>I have smoe bad news for you: there are 2 typosquatting repositories that are deceiving users into downloading kernel level malware inside your EFI partitions. </p>
+<p> This is the first Hackintosh tool documented to be weaponized through typosquatting, enabling attackers to spread kernel-level malware and gain ring 0 access. </p>
 <p> The official repo is this: https://github.com/lzhoang2801/OpCore-Simplify </p>
 <p> Typosquatting repo No1: </p>
 The first typosquatted repo is called OpCore-Simplify2. Their trick is to deceive people into downloading kernel level malware into their EFIs by making the name of the repo too similar to the official repo - this is a trick black hats adore to exploit.
