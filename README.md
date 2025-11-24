@@ -1,0 +1,1 @@
+# OpCore-Simplify-Typosquats-Detected
