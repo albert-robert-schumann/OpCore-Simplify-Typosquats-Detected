@@ -88,3 +88,4 @@ Just look at this:
 To summarize:
 Both typosquatting repos use typosquatting techniques and inject kernel level malware - both Opcore-Simplify and OpCore-Simplify2. And Opcore-simplify doesn't just inject kernel level malware but it introduces new vulnerabilities they exploit in the code. The official OpCore-Simplify is malware-free. My advice: don't download anything from unofficial sources, be it a typosquatting website, a piracy website, typosquatted GitHub repositories, random Discord servers or random YouTube links until you verify it first.
 Before this research I didn't know that kernel level malware on macOS is possible. Downloading anything from unofficial sites without verifying first is a breach waiting to happen.
+<p> Last updated: 24 November 2025</p>
