@@ -13,7 +13,7 @@ This raises all red flags: the official AppleIGC kext's owner is Mieze, not Song
 And another red flag here is that this kext AppleMCEReporterDisabler is being downloaded from Accidanthera's GitHub issues, not from a repository. This might be another trick to install kernel level malware.
 And the profile of the criminal who made this typosquatting project looks like this:
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-24 um 01 25 35" src="https://github.com/user-attachments/assets/282d2add-57db-4ea4-9ee9-2ad63afbb42a" />
-It's too obvious this person their goal is to commit crime - a MikroTic keygen generator to bypass licensing, a typosquatting repo that installs kernel level malware, a repo about brute forcing BitLocker keys - all of them are a serious crime.
+It's too obvious this person their goal is to commit crime - a MikroTic keygen generator to bypass licensing (which actually is a bootkit rather than a keygen), a typosquatting repo that installs kernel level malware, a repo about brute forcing BitLocker keys - all of them are a serious crime.
 Let's go to the next typosquatting repo:
 The next typosquatting repo is called Opcore-Simplify, which is as convincing, if not more than OpCore-Simplify2.
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-24 um 01 37 43" src="https://github.com/user-attachments/assets/081d803e-1a91-4953-ad06-5afc1f6ac3ff" />
