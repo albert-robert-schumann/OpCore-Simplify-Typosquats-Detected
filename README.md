@@ -2,7 +2,7 @@
 <p> Hello everyone, </p>
 <p>I have some bad news for you: there are 2 typosquatting repositories that are deceiving users into downloading kernel level malware inside your EFI partitions. </p>
 <p> This is the first Hackintosh tool documented to be weaponized through typosquatting, enabling attackers to spread kernel-level malware and gain ring 0 access. </p>
-<p> The official repo is this: https://github.com/lzhoang2801/OpCore-Simplify </p>
+<p> The official repo is this: https://github.com/lzhoang2801/OpCore-Simplify . Ny own repo, which is all about security fixes is this: https://github.com/albert-robert-schumann/OpCore-Simplify-FixVulnerabilities and it has fixed vulnerabilities like outdated Google Chrome 131 user agent string. To see more what it has been fixed, read the readme in that repository.</p>
 <p> Typosquatting repo No1: </p>
 The first typosquatted repo is called OpCore-Simplify2. Their trick is to deceive people into downloading kernel level malware into their EFIs by making the name of the repo too similar to the official repo - this is a trick black hats adore to exploit.
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-24 um 00 48 48" src="https://github.com/user-attachments/assets/6a13c76a-87b2-49f9-9765-be26b664d5b5" />
@@ -90,4 +90,4 @@ Just look at this:
 To summarize:
 Both typosquatting repos use typosquatting techniques and inject kernel level malware - both Opcore-Simplify and OpCore-Simplify2. And Opcore-simplify doesn't just inject kernel level malware but it introduces new vulnerabilities they exploit in the code. The official OpCore-Simplify is malware-free. My advice: don't download anything from unofficial sources, be it a typosquatting website, a piracy website, typosquatted GitHub repositories, random Discord servers or random YouTube links until you verify it first.
 Before this research I didn't know that kernel level malware on macOS is possible. Downloading anything from unofficial sites without verifying first is a breach waiting to happen.
-<p> Last updated: 24 November 2025</p>
+<p> Last updated: 25 November 2025</p>
