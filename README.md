@@ -14,6 +14,7 @@
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 18 23" src="https://github.com/user-attachments/assets/120af8c5-4286-417d-af6f-f69777b9b5b1" />
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 18 29" src="https://github.com/user-attachments/assets/d40126f2-e71a-4b12-9f3e-007cf2694616" />
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 18 31" src="https://github.com/user-attachments/assets/e0a262d3-d660-460b-936b-5e2d6bebab17" />
+<p> What he was saying wasn't true and when it got weaponized, only then it got fixed and the maintainer understood what I meant </p>
 <p> Typosquatting repo No1: </p>
 The first typosquatted repo is called OpCore-Simplify2. Their trick is to deceive people into downloading kernel level malware into their EFIs by making the name of the repo too similar to the official repo - this is a trick black hats adore to exploit.
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-24 um 00 48 48" src="https://github.com/user-attachments/assets/6a13c76a-87b2-49f9-9765-be26b664d5b5" />
