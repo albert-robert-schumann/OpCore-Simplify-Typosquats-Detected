@@ -14,7 +14,22 @@
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 18 23" src="https://github.com/user-attachments/assets/120af8c5-4286-417d-af6f-f69777b9b5b1" />
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 18 29" src="https://github.com/user-attachments/assets/d40126f2-e71a-4b12-9f3e-007cf2694616" />
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 18 31" src="https://github.com/user-attachments/assets/e0a262d3-d660-460b-936b-5e2d6bebab17" />
-<p> What he was saying wasn't true and when it got weaponized, only then it got fixed and the maintainer understood what I meant </p>
+<p> What he was saying wasn't true and when it got weaponized, only then it got fixed and the maintainer understood what I meant. It's just dangerous an EFI builder to have such a vulnerability. By the time he fixed this vulnerability, the typosquatting forks that I'll talk about later have weaponized this vulnerability..</p>
+<p> And 5 other vulnerabilities, that I had reported, of which 3 of them are outdated or invalid user agents, 1 of them that logs WiFi passwords in plain text and 1 of them logs MAC addresses in plain text, when I sent a pull request, the maintainer closed it without merging those fixes and as such left the official OpCore-Simplify vulnerable to those vulnerabilities, 2 of them can be abused for brute force attacks.</p>
+<img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 39 19" src="https://github.com/user-attachments/assets/7cc296cc-24dd-4485-bd20-e8b7fb366d12" />
+<img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 39 24" src="https://github.com/user-attachments/assets/83402112-4453-45cf-85e4-28793e09015b" />
+<img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 39 33" src="https://github.com/user-attachments/assets/c8a0d10a-12bf-4cba-a938-d00d75f55150" />
+<img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 39 53" src="https://github.com/user-attachments/assets/9cbf9b47-63e1-41c6-87f0-f198a0c61bf9" />
+<img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 40 49" src="https://github.com/user-attachments/assets/03ae0448-7aa0-40d0-aa12-400d0fafa6dc" />
+<img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 40 44" src="https://github.com/user-attachments/assets/d3606f7c-b2fd-436f-b4a5-da45447bb2ce" />
+<img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 40 25" src="https://github.com/user-attachments/assets/fff8f806-892c-49e5-8d28-8d73c7d4a084" />
+<img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 40 22" src="https://github.com/user-attachments/assets/2b7d01b6-4f7f-4610-a213-56c94ca876a7" />
+<img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 40 10" src="https://github.com/user-attachments/assets/9e338746-11b3-458c-b364-b4777ac30fed" />
+<img width="1552" height="915" alt="Bildschirmfoto 2025-11-28 um 23 39 55" src="https://github.com/user-attachments/assets/937586e2-585d-481d-bf4d-a6092a955f6c" />
+<p> The vulnerabilities that the maintainer has fixed which I have reported most of them could be abused by people with no technical skills. These include:</p>
+<p><a href="https://youtu.be/pchOSClmUPg?si=pgNNCAiejLBCjjE5">Hardware Sniffer CLI Vulnerability</a></p>
+<p><a href="https://youtu.be/GtcDR3aHjg8?si=EJfrV8ifsldIawNk">OpCore Simplify JSON vulnerability</a></p>
+Now I'm going to talk about the 2 typosquatting repos.
 <p> Typosquatting repo No1: </p>
 The first typosquatted repo is called OpCore-Simplify2. Their trick is to deceive people into downloading kernel level malware into their EFIs by making the name of the repo too similar to the official repo - this is a trick black hats adore to exploit.
 <img width="1552" height="915" alt="Bildschirmfoto 2025-11-24 um 00 48 48" src="https://github.com/user-attachments/assets/6a13c76a-87b2-49f9-9765-be26b664d5b5" />
